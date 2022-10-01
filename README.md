@@ -11,6 +11,6 @@ Steps to contribute:
 
 4> Ask for merge (PR)
 
-Contribute your react projects here....
+Contribute your DSA codes here....
 
 Enjoy Free Open source Enjoy Exploration
