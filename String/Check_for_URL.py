@@ -11,5 +11,5 @@ def Find(string):
 	return [x[0] for x in url]
 	
 # Driver Code
-string = ' My Linkedin Profile: https://linkedin.com/in/~amankesarwani '
+string = ' My Linkedin Profile: https://linkedin.com/in/~amankesarwani & instagram profile is https://instagram.com/aman_0fficial '
 print("Urls: ", Find(string))
