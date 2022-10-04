@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.List;
 
-public class Print_words_vertically {
+public class print_files_vertically {
     class Solution {
         public List<String> printVertically(String s) {
             String[] arr=s.split(" ");
