@@ -3,7 +3,7 @@ import java.util.*;
 class node{
     int data;
     node next;
-};
+}
 
 class SinglyCL
 {

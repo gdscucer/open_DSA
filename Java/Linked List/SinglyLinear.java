@@ -4,7 +4,7 @@ class node
 {
     int Data;
     node next;
-};
+}
 
 class SinglyLL{
     private int size;

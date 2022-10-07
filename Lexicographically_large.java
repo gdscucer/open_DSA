@@ -1,4 +1,4 @@
-public class lexicographically_large {
+public class Lexicographically_large {
     public String lastSubstring(String s) {
         int maxIndex = s.length() - 1;
 

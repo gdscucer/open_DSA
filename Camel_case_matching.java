@@ -4,7 +4,7 @@ import java.util.List;
 Time-1ms
 Space-41.8MB
  */
-public class CamelCaseMatching {
+public class Camel_case_matching {
     public List<Boolean> camelMatch(String[] queries, String pattern) {
         List<Boolean> answer = new ArrayList<>();
         char[] pA=pattern.toCharArray();
